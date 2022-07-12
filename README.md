@@ -1,1 +1,1 @@
-# Hire-Me_DAO
+# Hire-Me-DAO
